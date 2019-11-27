@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: Employee Management
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: manikant
+Built-By: Deepak
 Implementation-Vendor-Id: com.employee.management
 Build-Jdk: 1.8.0_191
 Implementation-URL: http://projects.spring.io/spring-boot/employee-man

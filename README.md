@@ -1,9 +1,7 @@
-#Employee Management System
-
+#Employee 
 #HOW TO RUN THIS PROJECT?#
 ###FROM THE IDE:###
-#Employee Management System
-
+#Employee
 #HOW TO RUN THIS PROJECT?#
 ###FROM THE IDE:###
 1. Open the project in an IDE like Eclipse.
